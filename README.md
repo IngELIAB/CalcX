@@ -41,7 +41,7 @@ A continuaciÃ³n, se explica cÃ³mo instalar y ejecutar la calculadora en los 
 1. AsegÃºrate de tener Python 3 instalado (viene preinstalado en versiones recientes).
 2. Abre la Terminal y clona este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/IngELIAB/CalcX.git
    ```
 3. Navega al directorio del proyecto y ejecuta:
    ```bash
@@ -56,7 +56,7 @@ A continuaciÃ³n, se explica cÃ³mo instalar y ejecutar la calculadora en los 
    ```
 2. Clona este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/IngELIAB/CalcX.git
    ```
 3. Navega al directorio del proyecto y ejecuta:
    ```bash
@@ -70,7 +70,7 @@ A continuaciÃ³n, se explica cÃ³mo instalar y ejecutar la calculadora en los 
    ```
 2. Clona este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/IngELIAB/CalcX.git
    ```
 3. Navega al directorio del proyecto y ejecuta:
    ```bash
@@ -84,7 +84,7 @@ A continuaciÃ³n, se explica cÃ³mo instalar y ejecutar la calculadora en los 
    ```
 2. Clona este repositorio:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone https://github.com/IngELIAB/CalcX.git
    ```
 3. Navega al directorio del proyecto y ejecuta:
    ```bash
